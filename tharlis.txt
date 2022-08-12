@@ -7,20 +7,25 @@ gravida. donec fermentum vulputate quis placerat porta duis lacinia accumsan, tu
 rutrum tristique phasellus ac tincidunt, eros vel pharetra vivamus nisi feugiat amet.
 aliquam vitae per massa dolor sociosqu vivamus himenaeos lectus sed, libero habitasse
 mi volutpat eleifend pellentesque laoreet mi taciti, ligula aliquam venenatis neque viverra duis neque quisque. 
-=======
- augue ut bibendum nulla praesent, enim donec iaculis lacus sagittis pellentesque convallis
+
+augue ut bibendum nulla praesent, enim donec iaculis lacus sagittis pellentesque convallis
  gravida. donec fermentum vulputate quis placerat porta duis lacinia accumsan, turpis nullam
- rutrum tristique phasellus ac tincidunt, eros vel pharetra vivamus nisi feugiat amet.
+ rutrum tristique phasellus ac tincidunt, eros ve pharetra vivamus nisi feugiat amet.
  aliquam vitae per massa dolor sociosqu vivamus himenaeos lectus sed, libero habitasse
- mi volutpat eleifend pellentesque laoreet mi taciti, ligula aliquam venenatis neque viverra duis neque quisque. 
+ mi volutpat eleifend pellentesque laoreet mi taci
+	o master esteve aqui.
 
 <<<<<<< HEAD
 	
 
 alterando arquivo - by jonatan
 dono-custos
+<<<<<<< HEAD
 =======
 
 Adicionando novo paragrafo
-	
+	Adicinando novo
 paciente02
+=======
+>>>>>>> 85b91df752f4a8a98265dbead90bf77c349f67c3
+>>>>>>> 313b4e3789cca16b0e74177f48ff42be1b68c698
