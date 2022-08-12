@@ -1,7 +1,7 @@
 Lorem ipsum semper rhoncus scelerisque curabitur ipsum ligula dolor hac morbi quam aenean,
 mauris in consequat donec taciti imperdiet leo nunc eu mollis risus. magna pretium lacinia 
 ultricies inceptos turpis fusce ut rhoncus ipsum, ultrices fermentum primis condimentum primis
-<<<<<<< HEAD
+
 augue ut bibendum nulla praesent, enim donec iaculis lacus sagittis pellentesque convallis
 gravida. donec fermentum vulputate quis placerat porta duis lacinia accumsan, turpis nullam
 rutrum tristique phasellus ac tincidunt, eros vel pharetra vivamus nisi feugiat amet.
@@ -15,17 +15,12 @@ augue ut bibendum nulla praesent, enim donec iaculis lacus sagittis pellentesque
  mi volutpat eleifend pellentesque laoreet mi taci
 	o master esteve aqui.
 
-<<<<<<< HEAD
 	
 
 alterando arquivo - by jonatan
 dono-custos
-<<<<<<< HEAD
-=======
+
 
 Adicionando novo paragrafo
 	Adicinando novo
 paciente02
-=======
->>>>>>> 85b91df752f4a8a98265dbead90bf77c349f67c3
->>>>>>> 313b4e3789cca16b0e74177f48ff42be1b68c698
