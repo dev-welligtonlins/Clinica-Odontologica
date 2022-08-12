@@ -10,3 +10,5 @@ como cliente, preciso que seja possível reagendar ou cancelar uma consulta, no 
 tailan
 
 eu como Recepcionista da clinica quero enviar informe com as informações data, horario e local do atendimento e um link para confirmar o agendamento#3
+eu como Cliente quero ter mais de uma forma de pagameto e ao relizar o pagamento emitir minha nota fiscal#11
+eu como Cliente gotaria de ser informado quando meu atendimento estiver perto da data marcada#7
