@@ -6,9 +6,9 @@ Eu como dono da clínica preciso gerenciar os pontos de frequências dos funcion
 como dono da uma clínica odontológica, preciso de um sistema que faça o controle da entrada e da saída dos funcionários para saber se o funcionário está na clínica.#2
 como dono, preciso que o sistema gerencie todos os custos da clínica, para que seja possível saber se a clínica teve lucro ou prejuízo e a razão disso.#18
 como cliente, preciso que seja possível reagendar ou cancelar uma consulta, no caso de algum imprevisto.#9
-
-tailan
-
+#15 como paciente quero poder escolher o tipo de exame que irei fazer, seja um canal, limpeza, clareamento dental etc
+#8 Como paciente, quero visualizar o horário da minha consulta, para o caso de esquecer.
+#14 como paciente, preciso saber os horários disponíveis para consultas.
 eu como Recepcionista da clinica quero enviar informe com as informações data, horario e local do atendimento e um link para confirmar o agendamento#3
 eu como Cliente quero ter mais de uma forma de pagameto e ao relizar o pagamento emitir minha nota fiscal#11
 eu como Cliente gotaria de ser informado quando meu atendimento estiver perto da data marcada#7
