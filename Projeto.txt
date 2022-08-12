@@ -1,5 +1,5 @@
 welligton
-hermann
+Eu como dono da clínica preciso gerenciar os pontos de frequências dos funcionários e dentistas.
 jonatan
 tailan
 tharlis
