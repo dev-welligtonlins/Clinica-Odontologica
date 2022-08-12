@@ -1,0 +1,3 @@
+Adicionando o horário de entrada e saída dos fucionários no sistema.
+
+Adicionando um vetor para acumular as horas dos funcionários no sistema.
