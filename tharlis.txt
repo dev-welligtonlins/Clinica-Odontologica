@@ -14,7 +14,13 @@ mi volutpat eleifend pellentesque laoreet mi taciti, ligula aliquam venenatis ne
  aliquam vitae per massa dolor sociosqu vivamus himenaeos lectus sed, libero habitasse
  mi volutpat eleifend pellentesque laoreet mi taciti, ligula aliquam venenatis neque viverra duis neque quisque. 
 
+<<<<<<< HEAD
 	
 
 alterando arquivo - by jonatan
 dono-custos
+=======
+
+Adicionando novo paragrafo
+	
+paciente02
