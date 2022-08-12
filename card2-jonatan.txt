@@ -1,0 +1,4 @@
+despesas: são valores que fazem parte do funcionamento da empresa, esses gastos são necessários para que o negócio exista, como impostos, salários ou recursos humanos;
+gastos: aqui entra tudo que não estava previsto no seu orçamento mensal, mas que são importantes para o negócio, como a necessidade de um reparo ou uma reposição inesperada de estoque;
+custos variáveis: são os valores necessários para fabricar um produto, como custos com energia elétrica, materiais e mão de obra;
+custos fixos: são valores que possuem pouca ou nenhuma variação durante um determinado período de tempo na sua empresa, como aluguel, manutenção de equipamentos, conta da internet, etc.
