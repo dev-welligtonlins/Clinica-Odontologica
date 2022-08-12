@@ -1,2 +1,3 @@
 Adicionando o horário de entrada e saída dos fucionários no sistema.
 
+Adicionado paragrafo por Hermann. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce gravida nunc id scelerisque commodo. Integer eu dui eu ligula interdum tincidunt. Vivamus condimentum, lectus id vulputate suscipit, metus tortor laoreet tellus, et varius leo tellus eu elit. Vivamus ut justo vitae ligula rutrum tincidunt non nec lorem. In felis nisl, aliquet in mi et, ornare luctus mi. Morbi commodo blandit dapibus. Phasellus a suscipit libero. Nullam in feugiat tellus, vel maximus nisi. Sed eu dui vitae sem pellentesque ornare a nec nulla. Ut eleifend nulla ut odio iaculis, et faucibus diam ultrices. Aenean metus lectus, molestie ut aliquet ut, pulvinar varius enim.

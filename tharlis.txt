@@ -1,10 +1,22 @@
-dsfLorem ipsum semper rhoncus scelerisque curabitur ipsum ligula dolor hac morbi quam aenean,
- mauris in consequat donec taciti imperdiet leo nunc eu mollis risus. magna pretium lacinia 
+Lorem ipsum semper rhoncus scelerisque curabitur ipsum ligula dolor hac morbi quam aenean,
+mauris in consequat donec taciti imperdiet leo nunc eu mollis risus. magna pretium lacinia 
 ultricies inceptos turpis fusce ut rhoncus ipsum, ultrices fermentum primis condimentum primis
- augue ut bibendum nulla praesent, enim donec iaculis lacus sagittis pellentesque convallis
- gravida. donec fermentum vulputate quis placerat porta duis lacinia accumsan, turpis nullam
- rutrum tristique phasellus ac tincidunt, eros vel pharetra vivamus nisi feugiat amet.
- aliquam vitae per massa dolor sociosqu vivamus himenaeos lectus sed, libero habitasse
- mi volutpat eleifend pellentesque laoreet mi taciti, ligula aliquam venenatis neque viverra duis neque quisque. 
+<<<<<<< HEAD
+augue ut bibendum nulla praesent, enim donec iaculis lacus sagittis pellentesque convallis
+gravida. donec fermentum vulputate quis placerat porta duis lacinia accumsan, turpis nullam
+rutrum tristique phasellus ac tincidunt, eros vel pharetra vivamus nisi feugiat amet.
+aliquam vitae per massa dolor sociosqu vivamus himenaeos lectus sed, libero habitasse
+mi volutpat eleifend pellentesque laoreet mi taciti, ligula aliquam venenatis neque viverra duis neque quisque. 
 
+augue ut bibendum nulla praesent, enim donec iaculis lacus sagittis pellentesque convallis
+ gravida. donec fermentum vulputate quis placerat porta duis lacinia accumsan, turpis nullam
+ rutrum tristique phasellus ac tincidunt, eros ve pharetra vivamus nisi feugiat amet.
+ aliquam vitae per massa dolor sociosqu vivamus himenaeos lectus sed, libero habitasse
+ mi volutpat eleifend pellentesque laoreet mi taci
 	o master esteve aqui.
+
+	
+
+alterando arquivo - by jonatan
+dono-custos
+>>>>>>> 85b91df752f4a8a98265dbead90bf77c349f67c3
