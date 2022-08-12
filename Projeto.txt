@@ -2,4 +2,5 @@ welligton
 hermann
 jonatan
 tailan
-tharlis
+
+eu como Recepcionista da clinica quero enviar informe com as informações data, horario e local do atendimento e um link para confirmar o agendamento#3
